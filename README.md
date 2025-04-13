@@ -1,4 +1,4 @@
-Code can be run in the ipynb file within Colab.
+Code can be run in in inpynb or local files
 
 Will need normalised dataset downloadded into local folder/google drive to run.
 To download normalised file:
