@@ -24,7 +24,7 @@ electricity and shrinking their carbon footprint worldwide.
 
 3. Paste normalised dataset in the same folder as the inpynb or local files
 
-4. Open the inpynb file and run the cells in order or just run the local file.
+4. Open the MAI.inpynb file and run the cells in order or just run the local file.
 
 
 
