@@ -1,7 +1,7 @@
 # MAI Project Repositry
 
 Master Project by Maryam Bhadmus.
-![Alt text](https://github.com/bhadmusm/MAI-Project/blob/main/transformer.png) 
+
 
 ## Description
 This project explores how to better predict and analyse the energy used by data centers 
@@ -14,8 +14,13 @@ advanced Transformer model had the best performance by having the most accurate
 predictions to better predict spikes in energy usage. The insights gained from the 
 investigation can help in guiding data centers to make better decisions for saving 
 electricity and shrinking their carbon footprint worldwide.
- 
 
+![Alt text](https://github.com/bhadmusm/MAI-Project/blob/main/transformer.png) 
+Transformer architecture
+
+
+![Alt text](https://github.com/bhadmusm/MAI-Project/blob/main/lstm-cnn.png) 
+LSTM-CNN architecture
 
 
 ## To run the program:
