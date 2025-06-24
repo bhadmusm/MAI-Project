@@ -32,5 +32,5 @@ LSTM-CNN architecture
 
 4. Open the MAI.inpynb file and run the cells in order or just run the local file.
 
-
+© Maryam Bhadmus 2025
 
