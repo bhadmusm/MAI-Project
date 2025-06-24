@@ -1,6 +1,7 @@
 # MAI Project Repositry
 
 Master Project by Maryam Bhadmus.
+![Alt text](https://github.com/bhadmusm/MAI-Project/blob/main/transformer.png) 
 
 ## Description
 This project explores how to better predict and analyse the energy used by data centers 
