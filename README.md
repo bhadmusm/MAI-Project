@@ -1,6 +1,6 @@
 # MAI Project Repositry
 
-Master Project by Maryam Bhadmus.
+TCD Master Project by Maryam Bhadmus.
 
 
 ## Description
